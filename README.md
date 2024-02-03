@@ -1,5 +1,3 @@
-[![trophy](https://github-profile-trophy.vercel.app/?username=andrew)](https://github.com/ryo-ma/github-profile-trophy)
-
 
 <!--
 **RemyEE/RemyEE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
